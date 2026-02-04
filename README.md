@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="600" height="200" width="400" src="https://payherestorage.blob.core.windows.net/payhere-resources/www/images/PayHere-Logo.png">
+</p>
 # PayHere PHP SDK
 
 [![Latest Version](https://img.shields.io/packagist/v/chamikasamaraweera/payhere-php-sdk)](https://packagist.org/packages/chamikasamaraweera/payhere-php-sdk)
